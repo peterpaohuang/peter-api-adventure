@@ -1,0 +1,25 @@
+{
+  "rooms": [
+    {
+      "index": "NOT VALID ATTRIBUTE",
+      "location": "Florida Avenue Residences",
+      "information": "You are comfortably asleep in a dorm room in Florida Avenue Residences",
+      "directions": [
+        {
+          "index": 1,
+          "direction": "West"
+        },
+        {
+          "index": 2,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "sleep"
+        }
+      ],
+      "didWin": "NOT VALID ATTRIBUTE"
+    }
+  ]
+}

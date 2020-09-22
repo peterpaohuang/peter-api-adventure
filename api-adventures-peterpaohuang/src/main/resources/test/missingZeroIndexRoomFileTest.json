@@ -1,0 +1,49 @@
+{
+  "rooms": [
+    {
+      "index": 2,
+      "location": "Florida Avenue Residences",
+      "information": "You are comfortably asleep in a dorm room in Florida Avenue Residences",
+      "directions": [
+        {
+          "index": 5,
+          "direction": "West"
+        }
+      ],
+      "items": [
+        {
+          "name": "sleep"
+        }
+      ],
+      "didWin": false
+    },
+    {
+      "index": 5,
+      "location": "Parking lot",
+      "information": "It's 2016. You are sprinting across a dark parking lot as clowns with red noses chase you",
+      "directions": [
+        {
+          "index": 3,
+          "direction": "South"
+        },
+        {
+          "index": 4,
+          "direction": "North"
+        },
+        {
+          "index": 2,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "sprinting powers"
+        },
+        {
+          "name": "red nose"
+        }
+      ],
+      "didWin": true
+    }
+  ]
+}

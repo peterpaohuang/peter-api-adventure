@@ -1,0 +1,221 @@
+{
+  "rooms": [
+    {
+      "index": 0,
+      "location": "Florida Avenue Residences",
+      "information": "You are comfortably asleep in a dorm room in Florida Avenue Residences",
+      "directions": [
+        {
+          "index": 1,
+          "direction": "West"
+        },
+        {
+          "index": 2,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "sleep"
+        }
+      ],
+      "imageURL": "https://housing.illinois.edu/-/media/housing/images/photo-galleries/far/far-interior-7.ashx?w=350",
+      "didWin": false
+    },
+    {
+      "index": 1,
+      "location": "Parking lot",
+      "information": "It's 2016. You are sprinting across a dark parking lot as clowns with red noses chase you",
+      "directions": [
+        {
+          "index": 3,
+          "direction": "South"
+        },
+        {
+          "index": 4,
+          "direction": "North"
+        },
+        {
+          "index": 2,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "sprinting powers"
+        },
+        {
+          "name": "red nose"
+        }
+      ],
+      "imageURL": "https://ewscripps.brightspotcdn.com/dims4/default/352df50/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.thedenverchannel.com%2Fphoto%2F2016%2F09%2F23%2FWasco%20clown%20sighting%20copy_1474649500930_46812855_ver1.0_640_480.jpg",
+      "didWin": false
+    },
+    {
+      "index": 2,
+      "location": "Thailand",
+      "information": "You are currently in Thailand petting an elephant while birds chirp in the background",
+      "directions": [
+        {
+          "index": 1,
+          "direction": "West"
+        },
+        {
+          "index": 4,
+          "direction": "North"
+        },
+        {
+          "index": 5,
+          "direction": "South"
+        },
+        {
+          "index": 6,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "grass"
+        }
+      ],
+      "imageURL": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/10/10/elephants-thailand-6.jpg",
+      "didWin": false
+    },
+    {
+      "index": 3,
+      "location": "Olympics",
+      "information": "Fans are screaming your name as you reach the finish line 'USAIN BOLT'",
+      "directions": [
+        {
+          "index": 1,
+          "direction": "North"
+        },
+        {
+          "index": 4,
+          "direction": "East"
+        },
+        {
+          "index": 7,
+          "direction": "South"
+        }
+      ],
+      "items": [
+        {
+          "name": "gold medal"
+        },
+        {
+          "name": "running shoes"
+        }
+      ],
+      "imageURL": "https://api.time.com/wp-content/uploads/2016/08/gettyimages-589521390.jpg",
+      "didWin": false
+    },
+    {
+      "index": 4,
+      "location": "North Pole",
+      "information": "You hear the soft crunch of powdery snow beneath your hooves. Oh my, you are Rudolph the Red Nosed Reindeer",
+      "directions": [
+        {
+          "index": 1,
+          "direction": "North"
+        },
+        {
+          "index": 3,
+          "direction": "West"
+        },
+        {
+          "index": 7,
+          "direction": "South"
+        },
+        {
+          "index": 5,
+          "direction": "East"
+        }
+      ],
+      "items": [
+        {
+          "name": "santa"
+        },
+        {
+          "name": "wet socks"
+        }
+      ],
+      "imageURL": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/OKPXEIHXFYI6REFQ7BHTHPSTBU.jpg",
+      "didWin": false
+    },
+    {
+      "index": 5,
+      "location": "Australia",
+      "information": "Australian dolphins sing above you. Fish huddle beneath you. You are a duck, a beaver, but also an otter. Wait no, you are a platypus!",
+      "directions": [
+        {
+          "index": 2,
+          "direction": "North"
+        },
+        {
+          "index": 6,
+          "direction": "East"
+        },
+        {
+          "index": 4,
+          "direction": "West"
+        },
+        {
+          "index": 7,
+          "direction": "South"
+        }
+      ],
+      "items": [
+        {
+          "name": "duck"
+        },
+        {
+          "name": "beaver"
+        },
+        {
+          "name": "otter"
+        }
+      ],
+      "imageURL": "https://sites.google.com/site/australiananimalsmfthmsmrtns/_/rsrc/1421150829084/home/platypus/Scientia-Very-cute-platypus.jpg?height=244&width=400",
+      "didWin": false
+    },
+    {
+      "index": 6,
+      "location": "Bora Bora",
+      "information": "Ouch! You are tumbling down flights of stairs, which melt into the crystal clear turquoise waters of Bora Bora",
+      "directions": [
+        {
+          "index": 2,
+          "direction": "West"
+        },
+        {
+          "index": 5,
+          "direction": "East"
+        },
+        {
+          "index": 7,
+          "direction": "South"
+        }
+      ],
+      "items": [
+        {
+          "name": "cute pig"
+        },
+        {
+          "name": "bruise from falling down stairs"
+        }
+      ],
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBRbLkypJ11djDGxbNavI2cpZ1F3yMmEwqdg&usqp=CAU",
+      "didWin": false
+    },
+    {
+      "index": 7,
+      "location": "Reality",
+      "information": "Your alarm clock blares and you wake up. You Win!",
+      "directions": [],
+      "items": [],
+      "imageURL": "https://previews.123rf.com/images/cobalt/cobalt1401/cobalt140100001/24903926-alarm-clock-vector-illustration.jpg",
+      "didWin": true
+    }
+  ]
+}
